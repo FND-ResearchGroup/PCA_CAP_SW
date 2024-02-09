@@ -1,7 +1,7 @@
 # PCA_CAPs
 
  This repository contains the example scripts to run the PCA CAPs analyses (without the GUI) for one and two populations.
- For concerns, question and feedback, please contact: Samantha Weber, samantha.weber@extern.insel.ch
+ For concerns, question and feedback, please contact: Samantha Weber, samantha.weber@unibe.ch // samantha.weber@bli.uzh.ch
 
  v1.0 June 2022
 
