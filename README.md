@@ -11,7 +11,7 @@
 ## Citation
 
  If you use this script please cite:  
-- Weber et al., "Transient resting-state salience-limbic co-activation patterns in functional neurological disorders", JOURNAL, YEAR, doi: 
+- Weber et al., "Transient resting-state salience-limbic co-activation patterns in functional neurological disorders", NeuroImage:Clinical, 2024, doi: 10.1016/j.nicl.2024.103583
 - Bolton et al., TbCAPs: A toolbox for co-activation pattern analysis. NeuroImage 2020. doi: 10.1016/j.neuroimage.2020.116621 
 
 ## Usage: 
